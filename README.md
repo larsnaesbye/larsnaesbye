@@ -1,5 +1,7 @@
-I make open data [@Kortforsyningen](https://github.com/Kortforsyningen) / [@Dataforsyningen](https://github.com/dataforsyningen).
+Hi, I'm Lars.
 
-Also does open source, plays and composes music, does TTRPGs and reads space exploration news.
+For a living, I make open data [@Kortforsyningen](https://github.com/Kortforsyningen) / [@Dataforsyningen](https://github.com/dataforsyningen) for the general public.
+
+I also do open source, play and compose music, play TTRPGs and read space exploration news.
 
 Motto: Feet on the ground, nose in the sky, heart on the sleeve.
