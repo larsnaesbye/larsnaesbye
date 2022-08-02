@@ -1,8 +1,15 @@
-Hello, I'm Lars.
+:construction_worker: Employed to facilitate the processing and distribution of public GNSS data for the Danish government
 
-I do open source stuff, play and compose music, play TTRPGs and read space exploration news.
+:seedling: Learning GNSS and Rust :crab:
 
-And yes, I also have a job distributing public GNSS data. Both are fun 🎡
+
+For fun, I 
+* Contribute to open source stuff :open_hands:
+* Play keyboard instruments :musical_keyboard:
+* Compose music :musical_score: 
+* Play TTRPGs :game_die:
+* Read space exploration news :rocket: :milky_way:
+
 
 __Motto__: Feet on the ground, nose in the sky, heart on the sleeve.
 
