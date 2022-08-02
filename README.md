@@ -1,6 +1,6 @@
 :construction_worker: Employed to facilitate the processing and distribution of public GNSS data for the Danish government
 
-:seedling: Learning GNSS and Rust :crab:
+:seedling: Learning Rust :crab:
 
 
 For fun, I 
