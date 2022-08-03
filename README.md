@@ -7,7 +7,7 @@ For fun, I
 * Contribute to open source stuff :open_hands:
 * Play keyboard instruments :musical_keyboard:
 * Compose music :musical_score: 
-* Play TTRPGs :game_die:
+* Play TTRPGs :game_die:, currently Eclipse Phase and Unknown Armies
 * Read space exploration news :rocket: :milky_way:
 
 
