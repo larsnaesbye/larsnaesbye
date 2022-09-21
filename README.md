@@ -1,4 +1,4 @@
-:construction_worker: Employed to facilitate the processing and distribution of public GNSS data for the Danish government
+:construction_worker: Employed to facilitate the processing and distribution of [public GNSS data for the Danish government](https://dataforsyningen.dk/news/3799).
 
 :seedling: Learning Rust :crab:
 
