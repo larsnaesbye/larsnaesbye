@@ -1,4 +1,5 @@
 :construction_worker: Employed to facilitate infrastructure for genomics research 🧬
+
 Previously helped to distribute [public GNSS data for the Danish government](https://dataforsyningen.dk/data?filter=&view=gallery&search=gnss).
 
 :seedling: Learning Rust :crab: among other things.
