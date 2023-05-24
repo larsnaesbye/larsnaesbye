@@ -10,3 +10,7 @@ For fun, I
 * Play TTRPGs :game_die:, currently Eclipse Phase and Burning Wheel
 
 __Motto__: Feet on the ground, nose in the sky, heart on the sleeve.
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=larsnaesbye&theme=gruvbox&margin-w=15&margin-h=15&column=4"/></a>
+</p>
