@@ -5,7 +5,7 @@ Previously helped to distribute public GNSS data for the Danish government.
 :seedling: Learning Rust :crab:
 
 For fun, I 
-* Contribute to open source stuff :open_hands:
+* Contribute to open source stuff :open_hands: like [rinex](https://github.com/georust/rinex) or [Second Life Viewer](https://github.com/secondlife/viewer).
 * Play keyboard instruments :musical_keyboard: and compose music :musical_score: for the band [Totemtanz](https://totemtanz.dk).
 * Play TTRPGs :game_die:, currently Eclipse Phase 2nd ed. and Burning Wheel
 
