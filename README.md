@@ -1,4 +1,4 @@
-:seedling: Learning Rust :crab: and Kubernetes :box:
+:seedling: Learning Rust :crab: and Kubernetes :card_file_box:
 
 __Motto__: Feet on the ground, nose in the sky, heart on the sleeve.
 
