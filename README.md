@@ -1,8 +1,4 @@
-:construction_worker: Employed to facilitate infrastructure for genomics research 🧬
-
-Previously helped to distribute public GNSS data for the Danish government.
-
-:seedling: Learning Rust :crab:
+:seedling: Learning Rust :crab: and Kubernetes :box:
 
 __Motto__: Feet on the ground, nose in the sky, heart on the sleeve.
 
